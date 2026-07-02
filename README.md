@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-i am 2nd-year CSE student
+i am 3nd-year CSE student
 
 
 ## 🌐 Socials:
