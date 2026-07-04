@@ -1,6 +1,16 @@
 ## Hi there 👋
 # 💫 About Me:
-i am 3nd-year CSE student
+## 👋 Hi, I'm Dileep Gowda
+
+🎓 3rd-year Computer Science Engineering student
+
+💻 Full Stack Web Developer
+
+🌱 Currently learning Flask, React, PostgreSQL and System Design
+
+🚀 Building real-world projects every week
+
+📫 Reach me: dileepgowda31@gmail.com
 
 
 ## 🌐 Socials:
