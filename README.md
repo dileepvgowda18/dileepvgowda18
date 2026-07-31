@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Dileep V Gowda<br><br>🎓 3rd-year Computer Science Engineering student at Bgsit <br><br>💻 Full Stack Web Developer.<br><br>🌱 Currently learning Flask, React, Javascript,PostgreSQL <br><br>🚀 Building real-world projects every week<br><br>📫 Reach ME: dileepvgowda31@gmail.com
+## 👋 Hi, I'm Dileep V Gowda<br><br>🎓 3rd-year Computer Science Engineering student at Bgsit <br><br>💻 Full Stack Web Developer.<br><br>🌱 Currently learning Flask, React, Javascript,PostgreSQL and Sql <br><br>🚀 Building real-world projects every week<br><br>📫 Reach ME: dileepvgowda31@gmail.com
 
 
 # 💻 Tech Stack:
