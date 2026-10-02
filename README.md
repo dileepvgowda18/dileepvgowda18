@@ -36,7 +36,7 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=dileepvgowda18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dileepvgowda18&theme=dark&hide_border=false&timezone=Asia%2FKolkata)
+![GitHub Streak](./profile/streak.svg)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dileepvgowda18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
