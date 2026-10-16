@@ -1,6 +1,6 @@
 # 💫 About Me
 
-## 👋 Hi, I'm Dileep V Gowda
+## 👋 Hi, I'm Dileep V Gowda 
 
 🎓 3rd-year Computer Science Engineering student @ BGSIT
 
