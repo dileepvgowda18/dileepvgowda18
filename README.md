@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Hi, I'm Dileep V Gowda
 
 🎓 3rd-year Computer Science Engineering student @ BGSIT
@@ -54,4 +54,4 @@
 [![Profile Views](https://hits.sh/github.com/dileepvgowda18.svg?label=Profile%20Views&style=flat-square&color=0e75b6)](https://hits.sh/github.com/dileepvgowda18/)
 
 ---
-```
+
