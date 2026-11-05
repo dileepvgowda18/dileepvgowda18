@@ -5,9 +5,9 @@
 
 💻 Full-Stack Web Developer | Python & JavaScript
 
-📚 Currently learning Flask, FastAPI, React, JavaScript, PostgreSQL and SQL
+📚 Currently learning Flask, FastAPI, React, JavaScript, PostgreSQL and SQL.
 
-🚀 Building real-world projects every week
+🚀 Building real-world projects every week.
 
 📫 Reach me: [dileepvgowda31@gmail.com](mailto:dileepvgowda31@gmail.com)
 
