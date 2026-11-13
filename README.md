@@ -3,7 +3,7 @@
 
 🎓 3rd-year Computer Science Engineering student @ BGSIT
 
-💻 Full-Stack Web Developer | Python & JavaScript
+💻 Full-Stack Web Developer | Python & JavaScript.
 
 📚 Currently learning Flask, FastAPI, React, JavaScript, PostgreSQL and SQL.
 
