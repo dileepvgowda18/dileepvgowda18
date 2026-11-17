@@ -45,7 +45,7 @@
 
 # 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dileepvgowda18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 
