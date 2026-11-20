@@ -8,7 +8,7 @@
 📚 Currently learning Flask, FastAPI, React, JavaScript, PostgreSQL and SQL.
 
 🚀 Building real-world projects every week.
-💻  Practice DSA
+💻  Practice DSA <br>
 📫 Reach me: [dileepvgowda31@gmail.com](mailto:dileepvgowda31@gmail.com)
 
 ---
